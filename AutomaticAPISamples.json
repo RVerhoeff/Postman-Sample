@@ -50,7 +50,7 @@
 					"tests": null,
 					"currentHelper": "bearerAuth",
 					"helperAttributes": {
-						"token": "4a97ff658fca5eb054fb0a3afafb41d8bf8de11b"
+						"token": "4a97xxxbf8de11b"
 					}
 				},
 				{
@@ -83,7 +83,7 @@
 					"tests": null,
 					"currentHelper": "bearerAuth",
 					"helperAttributes": {
-						"token": "4a97ff658fca5eb054fb0a3afafb41d8bf8de11b"
+						"token": "4a97xxxbf8de11b"
 					}
 				}
 			]
